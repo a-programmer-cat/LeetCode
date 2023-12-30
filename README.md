@@ -9,10 +9,12 @@ LeetCode Problems Solution
 | #4 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem4 | 困难Hard |
 | #69 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem69 | 简单Easy 
 | #206 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem206 | 简单Easy |
+| #344 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem344 | 简单Easy |
 | #367 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem367 | 简单Easy |
 | #383 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem383 | 简单Easy |
 | #412 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem6412 | 简单Easy |
 | #876 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem876 | 简单Easy |
+| #1185 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1185 | 简单Easy |
 | #1342 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1342 | 简单Easy |
 | #1480 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1480 | 简单Easy |
 | #1672 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1672 | 简单Easy |
