@@ -7,6 +7,7 @@ LeetCode Problems Solution
 | --------| --------| ---- |
 | #1 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1 | 简单Easy |
 | #4 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem4 | 困难Hard |
+| #9 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem9 | 简单Easy |
 | #69 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem69 | 简单Easy 
 | #206 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem206 | 简单Easy |
 | #344 | https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem344 | 简单Easy |
