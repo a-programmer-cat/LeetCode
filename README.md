@@ -1,6 +1,6 @@
 # LeetCode
 LeetCode Problems Solution  
-小白的LeetCode刷题解法  
+小白的LeetCode刷题解法记录  
 
 ## 目录  
 | No.编号 | Link链接 | 难度Difficulty | 日期Date | 备注Note |
