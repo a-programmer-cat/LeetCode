@@ -29,6 +29,7 @@ LeetCode Problems Solution
 | 1672 | [Problem 1672](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1672)  | 简单Easy | 26/12/2023 |  |
 | 1812 | [Problem 1812](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1812)  | 简单Easy | 4/1/2024 |  |
 | 2085 | [Problem 2085](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2085)  | 简单Easy | 12/1/2024 |  |
+| 2806 | [Problem 2806](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2806)  | 简单Easy | 13/1/2024 |  |
 | 2235 | [Problem 2235](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2235)  | 简单Easy | 3/11/2023 |  |
 | 2660 | [Problem 2660](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2660)  | 简单Easy | 27/12/2023 |  |
 | 2706 | [Problem 2706](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2706)  | 简单Easy | 29/12/2023 |  |
