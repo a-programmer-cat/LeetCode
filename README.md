@@ -12,6 +12,7 @@ LeetCode Problems Solution
 | 27 | [Problem 27](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem27) | 简单Easy | 4/1/2024 |  |
 | 69 | [Problem 69](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem69)  | 简单Easy | 27/12/2023 |  |
 | 75 | [Problem 75](https://github.com/a-programmer-cat/LeetCode/tree/main/Medium/Problem75)  | 中等Medium | 10/1/2024 |  |
+| 83 | [Problem 83](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem83)  | 简单Easy | 14/1/2024 |  |
 | 206 | [Problem 206](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem206)  | 简单Easy | 26/12/2023 |  |
 | 231 | [Problem 231](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem231)  | 简单Easy | 13/1/2024 |  |
 | 268 | [Problem 268](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem268)  | 简单Easy | 12/1/2024 |  |
