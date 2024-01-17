@@ -39,10 +39,12 @@ LeetCode Problems Solution
 | 1832 | [Problem 1832](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1832)  | 简单Easy | 14/1/2024 |  |
 | 1929 | [Problem 1929](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem1929)  | 简单Easy | 14/1/2024 |  |
 | 2085 | [Problem 2085](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2085)  | 简单Easy | 12/1/2024 |  |
+| 2138 | [Problem 2138](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2138)  | 简单Easy | 17/1/2024 |  |
 | 2235 | [Problem 2235](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2235)  | 简单Easy | 3/11/2023 |  |
 | 2660 | [Problem 2660](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2660)  | 简单Easy | 27/12/2023 |  |
 | 2706 | [Problem 2706](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2706)  | 简单Easy | 29/12/2023 |  |
 | 2769 | [Problem 2769](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2769)  | 简单Easy | 27/12/2023 |  |
+| 2744 | [Problem 2744](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2744)  | 简单Easy | 17/1/2024 |  |
 | 2806 | [Problem 2806](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2806)  | 简单Easy | 13/1/2024 |  |
 | 2942 | [Problem 2942](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2942)  | 简单Easy | 27/12/2023 |  |
 | 100162 | [Problem 100162](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100162)  | 简单Easy | 14/1/2024 | 第2次周赛（380场） |
