@@ -7,7 +7,7 @@ LeetCode Problems Solution
 | :--------:| :--------:| :--------:| :----: | :-----: | :-----: | :------: | :-----: | :------: |
 | 1 | 31/12/2023 | 378周赛Weekly Contest | 1 | 3 |[1.Problem 100166(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100166) | 2039 / 2747 | 1442 | +1442 |
 | 2 | 14/1/2024 | 380周赛Weekly Contest | 1 | 3 | [1.Problem 100162(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100162) | 2476 / 3325 | 1409 | -33 |
-| 3 | 21/1/2024 | 381周赛Weekly Contest | 2 |  | [1.Problem 100191(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100191)[3.Problem 100192(中等Medium)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100192) |  |  |  |
+| 3 | 21/1/2024 | 381周赛Weekly Contest | 2 |  | [1.Problem 100191(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100191) [3.Problem 100192(中等Medium)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100192) |  |  |  |
 
 ## 目录  
 | No.编号 | Link链接 | 难度Difficulty | 日期Date | 备注Note |
