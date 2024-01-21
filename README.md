@@ -2,6 +2,14 @@
 LeetCode Problems Solution  
 小白的LeetCode刷题解法记录  
 
+##竞赛记录
+| No.编号 | Date日期 | Session场次 | AC Number解题数量 | Score得分 | Link链接 | 名次 | 总分数 | 滑动 |
+| :--------:| :--------:| :--------:| :----: | :-----: | :-----: | :------: | :-----: | :------: |
+| 1 | 31/12/2023 | 378周赛Weekly Contest | 1 | 3 |[1.Problem 100166(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100166) | 2039 / 2747 | 1442 | +1442 |
+| 2 | 14/1/2024 | 380周赛Weekly Contest | 1 | 3 | [1.Problem 100162(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100162) | 2476 / 3325 | 1409 | -33 |
+| 3 | 21/1/2024 | 381周赛Weekly Contest | 2 |  | [1.Problem 100191(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100191)
+                                              [3.Problem 100192(中等Medium)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100192) |  |  |  |
+
 ## 目录  
 | No.编号 | Link链接 | 难度Difficulty | 日期Date | 备注Note |
 | :--------:| :--------:| :----: | :-----: | :------: |
@@ -51,4 +59,6 @@ LeetCode Problems Solution
 | 2942 | [Problem 2942](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem2942)  | 简单Easy | 27/12/2023 |  |
 | 100162 | [Problem 100162](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100162)  | 简单Easy | 14/1/2024 | 第2次周赛（380场） |
 | 100166 | [Problem 100166](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100166)  | 简单Easy | 31/12/2023 | 第1次周赛（378场） |
+| 100191 | [Problem 100191](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100191)  | 简单Easy | 21/1/2024 | 第3次周赛（381场） |
+| 100192 | [Problem 100192](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100192)  | 简单Easy | 21/1/2024 | 第3次周赛（381场） |
 
