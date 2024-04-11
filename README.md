@@ -2,7 +2,7 @@
 LeetCode Problems Solution  
 小白的LeetCode刷题解法记录  
 
-##竞赛记录
+## 竞赛记录
 | No.编号 | Date日期 | Session场次 | AC Number解题数量 | Score得分 | Link链接 | 名次 | 总分数 | 滑动 |
 | :--------:| :--------:| :--------:| :----: | :-----: | :-----: | :------: | :-----: | :------: |
 | 1 | 31/12/2023 | 378周赛Weekly Contest | 1 | 3 |[1.Problem 100166(简单Easy)](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100166) | 2039 / 2747 | 1442 | +1442 |
