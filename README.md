@@ -65,5 +65,5 @@ LeetCode Problems Solution
 | 100166 | [Problem 100166](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100166)  | 简单Easy | 31/12/2023 | 第1次周赛（378场） |
 | 100191 | [Problem 100191](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100191)  | 简单Easy | 21/1/2024 | 第3次周赛（381场） |
 | 100192 | [Problem 100192](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/Problem100192)  | 简单Easy | 21/1/2024 | 第3次周赛（381场） |
-| 9 | [LCP 06](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/LCP06) | 简单Easy | 25/6/2024 |  |
+| LCP06 | [LCP 06](https://github.com/a-programmer-cat/LeetCode/tree/main/Easy/LCP06) | 简单Easy | 25/6/2024 |  |
 
